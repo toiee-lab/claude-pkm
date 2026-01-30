@@ -1,0 +1,36 @@
+# 機密情報
+*.secret.md
+*.private.md
+*-secret.md
+*-private.md
+secrets/
+private/
+
+# 環境固有
+.env
+.env.*
+*.local.md
+
+# エディタ
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 一時ファイル
+*.tmp
+*.temp
+.cache/
+tmp/
+
+# バックアップ
+*.bak
+*.backup
+
+# Claude Code
+.claude/settings.local.json
