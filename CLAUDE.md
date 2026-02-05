@@ -1,23 +1,23 @@
 # Claude PKM (Personal Knowledge Management)
 
-このプロジェクトは、Claude Project 機能を効果的に活用するためのドキュメント管理システムです。ベストプラクティスに従って、ドキュメント作成、ファイル名、フォルダ名作成、ファイル分割を行うことを支援する。
+このプロジェクトは、Claude Project 機能を効果的に活用するためのドキュメント管理システムです。ベストプラクティスに従って、ドキュメント作成、ファイル名、フォルダ名作成、ファイル分割を行うことを支援します。
 
-## ベストプラクティス
+## ベストプラクティス（BP）
 
 To get the most out of your RAG-enabled projects:
 
-### Upload comprehensive content
+### Upload comprehensive content (BP1)
 
 - Add all relevant documents and files to your project upfront. The more context Claude has access to, the better it can assist you.
 
-## Use clear, descriptive filenames
+### Use clear, descriptive filenames (BP2)
 
 - Well-named files help Claude understand and retrieve the right information more effectively.
 
-## Organize related content together
+### Organize related content together (BP3)
 - Group related documents in the same project to enable Claude to draw connections between different sources.
 
-## Reference specific documents
+### Reference specific documents (BP4)
 
 - When asking questions, you can reference specific documents by name to help Claude focus its search.
 
